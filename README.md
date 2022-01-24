@@ -2,7 +2,7 @@
 
 Built using Django and Python3
 
-#To run code
+To run code
 
 0. Navigate to directory containing "manage.py"
 1. In command line, run the command "python3 manage.py runserver"
